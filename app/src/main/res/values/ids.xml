@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnPlus" type="id" />
+    <item name="btnMinus" type="id" />
+    <item name="btnMultiphy" type="id" />
+    <item name="btnDivide" type="id" />
+    <item name="btnMod" type="id" />
+</resources>
